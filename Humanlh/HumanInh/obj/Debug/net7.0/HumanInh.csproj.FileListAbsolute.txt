@@ -1,0 +1,5 @@
+C:\Users\Training\Desktop\Books Managment\HumanInh sol\HumanInh\obj\Debug\net7.0\HumanInh.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\Books Managment\HumanInh sol\HumanInh\obj\Debug\net7.0\HumanInh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\Books Managment\HumanInh sol\HumanInh\obj\Debug\net7.0\HumanInh.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\Books Managment\HumanInh sol\HumanInh\obj\Debug\net7.0\HumanInh.AssemblyInfo.cs
+C:\Users\Training\Desktop\Books Managment\HumanInh sol\HumanInh\obj\Debug\net7.0\HumanInh.csproj.CoreCompileInputs.cache
